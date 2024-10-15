@@ -1,0 +1,86 @@
+Molecular Structures
+
+Arginine (L-Arginine):
+SMILES: C(C(C(=O)O)N)CN=C(N)N
+InChI: InChI=1S/C6H14N4O2/c7-5(6(12)13)1-2-10-4(8)9/h5H,1-2,7H2,(H,12,13)(H4,8,9,10)
+
+Methylated Arginine:
+SMILES: C(C(C(=O)O)N)CN=C(NC)N
+InChI: InChI=1S/C7H16N4O2/c1-11-6(8)9-4(10)2-3-12-5(6)7(11)13/h4H,2-3H2,(H,11,12,13)
+
+Dimethylated Arginine:
+SMILES: C(C(C(=O)O)N)CN=C(NC(C)C)N
+InChI: InChI=1S/C8H18N4O2/c1-11-6(9)10-4(12)2-3-7-5(11)13/h4H,2-3H2,(H,12,13)
+
+Serine (L-Serine):
+SMILES: C(C(C(=O)O)N)O
+InChI: InChI=1S/C3H7NO3/c4-2(1-5)3(6)7/h2,5H,1,4H2,(H,6,7)
+
+Phosphorylated Serine:
+SMILES: C(C(C(=O)O)N)OP(=O)(O)O
+InChI: InChI=1S/C3H9NO6P/c4-2(1-5)3(6)10-11(7,8)9/h2,5H,1,4H2,(H,7,8,9)
+
+Physicochemical Properties or Activities
+
+Molecule, Molecular_Weight, logP, pKa, Binding_Affinity (kcal/mol)
+Arginine, 174.2, -4.34, 12.48, -8.2
+Methylated_Arginine, 188.2, -3.50, 12.25, -7.9
+Dimethylated_Arginine, 202.2, -3.00, 12.15, -7.5
+Serine, 105.1, -2.85, 9.21, -6.8
+Phosphorylated_Serine, 167.1, -5.20, 9.05, -6.5
+
+Activity Data
+
+Molecule: Arginine,
+    Molecular_Weight: 174.2,
+    logP: -4.34,
+    pKa: 12.48,
+    Binding_Affinity: -8.2,
+    Units": "kcal/mol,
+    Experimental_Method: DFT,
+    Temperature: 298,
+    pH": 7.4
+
+
+    Molecule: Methylated Arginine,
+    Molecular_Weight: 188.2,
+    logP: -3.50,
+    pKa: 12.25,
+    Binding_Affinity: -7.9,
+    Units: kcal/mol,
+    Experimental_Method: DFT,
+    Temperature: 298,
+    pH: 7.4,
+   
+
+    Molecule: Dimethylated Arginine,
+    Molecular_Weight: 202.2,
+    logP: -3.00,
+    pKa: 12.15,
+    Binding_Affinity: -7.5,
+    Units: kcal/mol,
+    Experimental_Method: DFT,
+    Temperature: 298,
+    pH": 7.4,
+    
+
+    Molecule: Serine,
+    Molecular_Weight": 105.1,
+    logP: -2.85,
+    pKa: 9.21,
+    Binding_Affinity: -6.8,
+    Units: kcal/mol,
+    Experimental_Method: DFT,
+    Temperature: 298,
+    pH: 7.4,
+
+
+    Molecule: Phosphorylated Serine,
+    Molecular_Weight: 167.1,
+    logP: -5.20,
+    pKa: 9.05,
+    Binding_Affinity: -6.5,
+    Units: kcal/mol,
+    Experimental_Method: DFT,
+    Temperature: 298,
+    pH: 7.4,
